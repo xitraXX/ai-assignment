@@ -1,0 +1,254 @@
+﻿User_Message,Response,Intent
+"Accounting diploma, What is diploma in Accounting, Accounting diploma info",Accounting,ignore
+"Advertising diploma, What is diploma in Advertising, Advertising diploma info",Advertising,ignore
+"Aquaculture diploma, What is diploma in Aquaculture, Aquaculture diploma info",Aquaculture,ignore
+"Banking & Finance diploma, What is diploma in Banking & Finance, Banking & Finance diploma info",Banking & Finance,ignore
+"Broadcast Communication diploma, What is diploma in Broadcast Communication, Broadcast Communication diploma info",Broadcast Communication,ignore
+"Building diploma, What is diploma in Building, Building diploma info",Building,ignore
+"Business Administration diploma, What is diploma in Business Administration, Business Administration diploma info",Business Administration,ignore
+"Business Economics diploma, What is diploma in Business Economics, Business Economics diploma info",Business Economics,ignore
+"Communication & Media Studies diploma, What is diploma in Communication & Media Studies, Communication & Media Studies diploma info",Communication & Media Studies,ignore
+"Computer Science diploma, What is diploma in Computer Science, Computer Science diploma info",Computer Science,ignore
+"Counselling diploma, What is diploma in Counselling, Counselling diploma info",Counselling,ignore
+"Culinary Arts diploma, What is diploma in Culinary Arts, Culinary Arts diploma info",Culinary Arts,ignore
+"E-Marketing diploma, What is diploma in E-Marketing, E-Marketing diploma info",E-Marketing,ignore
+"Early Childhood Education diploma, What is diploma in Early Childhood Education, Early Childhood Education diploma info",Early Childhood Education,ignore
+"Early Childhood Special Education diploma, What is diploma in Early Childhood Special Education, Early Childhood Special Education diploma info",Early Childhood Special Education,ignore
+"Electronic Engineering diploma, What is diploma in Electronic Engineering, Electronic Engineering diploma info",Electronic Engineering,ignore
+"Entrepreneurship diploma, What is diploma in Entrepreneurship, Entrepreneurship diploma info",Entrepreneurship,ignore
+"Event Management diploma, What is diploma in Event Management, Event Management diploma info",Event Management,ignore
+"Fashion Design diploma, What is diploma in Fashion Design, Fashion Design diploma info",Fashion Design,ignore
+"Finance & Investment diploma, What is diploma in Finance & Investment, Finance & Investment diploma info",Finance & Investment,ignore
+"Food Science diploma, What is diploma in Food Science, Food Science diploma info",Food Science,ignore
+"Graphic Design diploma, What is diploma in Graphic Design, Graphic Design diploma info",Graphic Design,ignore
+"Hotel Management diploma, What is diploma in Hotel Management, Hotel Management diploma info",Hotel Management,ignore
+"Human Resource Management diploma, What is diploma in Human Resource Management, Human Resource Management diploma info",Human Resource Management,ignore
+"International Business diploma, What is diploma in International Business, International Business diploma info",International Business,ignore
+"Information Technology diploma, What is diploma in Information Technology, Information Technology diploma info",Information Technology,ignore
+"Journalism diploma, What is diploma in Journalism, Journalism diploma info",Journalism,ignore
+"Logistics & Supply Chain Management diploma, What is diploma in Logistics & Supply Chain Management, Logistics & Supply Chain Management diploma info",Logistics & Supply Chain Management,ignore
+"Manufacturing Technology diploma, What is diploma in Manufacturing Technology, Manufacturing Technology diploma info",Manufacturing Technology,ignore
+"Marketing diploma, What is diploma in Marketing, Marketing diploma info",Marketing,ignore
+"Mechanical Engineering diploma, What is diploma in Mechanical Engineering, Mechanical Engineering diploma info",Mechanical Engineering,ignore
+"Mechatronic Engineering diploma, What is diploma in Mechatronic Engineering, Mechatronic Engineering diploma info",Mechatronic Engineering,ignore
+"Media Studies diploma, What is diploma in Media Studies, Media Studies diploma info",Media Studies,ignore
+"Multimedia Design diploma, What is diploma in Multimedia Design, Multimedia Design diploma info",Multimedia Design,ignore
+"Public Relations diploma, What is diploma in Public Relations, Public Relations diploma info",Public Relations,ignore
+"Product Development Technology diploma, What is diploma in Product Development Technology, Product Development Technology diploma info",Product Development Technology,ignore
+"Quantity Surveying diploma, What is diploma in Quantity Surveying, Quantity Surveying diploma info",Quantity Surveying,ignore
+"Real Estate Management diploma, What is diploma in Real Estate Management, Real Estate Management diploma info",Real Estate Management,ignore
+"Science diploma, What is diploma in Science, Science diploma info",Science,ignore
+"Software Engineering diploma, What is diploma in Software Engineering, Software Engineering diploma info",Software Engineering,ignore
+"Sports & Exercise Science diploma, What is diploma in Sports & Exercise Science, Sports & Exercise Science diploma info",Sports & Exercise Science,ignore
+"Tourism Management diploma, What is diploma in Tourism Management, Tourism Management diploma info",Tourism Management,ignore
+,,
+"Accounting degree, Bachelor of  Accounting, Accounting bachelor info",Accounting,ignore
+"Accounting & Finance degree, Bachelor of  Accounting & Finance, Accounting & Finance bachelor info",Accounting & Finance,ignore
+"Advertising degree, Bachelor of  Advertising, Advertising bachelor info",Advertising,ignore
+"Analytical Chemistry degree, Bachelor of  Analytical Chemistry, Analytical Chemistry bachelor info",Analytical Chemistry,ignore
+"Applied Business Analytics degree, Bachelor of  Applied Business Analytics, Applied Business Analytics bachelor info",Applied Business Analytics,ignore
+"Applied Physics (Instrumentation) degree, Bachelor of  Applied Physics (Instrumentation), Applied Physics (Instrumentation) bachelor info",Applied Physics (Instrumentation),ignore
+"Architecture degree, Bachelor of  Architecture, Architecture bachelor info",Architecture,ignore
+"Banking & Finance degree, Bachelor of  Banking & Finance, Banking & Finance bachelor info",Banking & Finance,ignore
+"Business Administration degree, Bachelor of  Business Administration, Business Administration bachelor info",Business Administration,ignore
+"Business Analytics degree, Bachelor of  Business Analytics, Business Analytics bachelor info",Business Analytics,ignore
+"Bioscience with Chemistry degree, Bachelor of  Bioscience with Chemistry, Bioscience with Chemistry bachelor info",Bioscience with Chemistry,ignore
+"Broadcasting degree, Bachelor of  Broadcasting, Broadcasting bachelor info",Broadcasting,ignore
+"Commerce degree, Bachelor of  Commerce, Commerce bachelor info",Commerce,ignore
+"Communication Studies degree, Bachelor of  Communication Studies, Communication Studies bachelor info",Communication Studies,ignore
+"Construction Management and Economics degree, Bachelor of  Construction Management and Economics, Construction Management and Economics bachelor info",Construction Management and Economics,ignore
+"Corporate Administration degree, Bachelor of  Corporate Administration, Corporate Administration bachelor info",Corporate Administration,ignore
+"Creative Multimedia degree, Bachelor of  Creative Multimedia, Creative Multimedia bachelor info",Creative Multimedia,ignore
+"Data Science degree, Bachelor of  Data Science, Data Science bachelor info",Data Science,ignore
+"Digital Business degree, Bachelor of  Digital Business, Digital Business bachelor info",Digital Business,ignore
+"Early Childhood Education degree, Bachelor of  Early Childhood Education, Early Childhood Education bachelor info",Early Childhood Education,ignore
+"Entrepreneurship degree, Bachelor of  Entrepreneurship, Entrepreneurship bachelor info",Entrepreneurship,ignore
+"Economics degree, Bachelor of  Economics, Economics bachelor info",Economics,ignore
+"Electrical & Electronics Engineering degree, Bachelor of  Electrical & Electronics Engineering, Electrical & Electronics Engineering bachelor info",Electrical & Electronics Engineering,ignore
+"Electronics Engineering Technology degree, Bachelor of  Electronics Engineering Technology, Electronics Engineering Technology bachelor info",Electronics Engineering Technology,ignore
+"English Studies degree, Bachelor of  English Studies, English Studies bachelor info",English Studies,ignore
+"English with Drama degree, Bachelor of  English with Drama, English with Drama bachelor info",English with Drama,ignore
+"English with Education degree, Bachelor of  English with Education, English with Education bachelor info",English with Education,ignore
+"Enterprise Information Systems degree, Bachelor of  Enterprise Information Systems, Enterprise Information Systems bachelor info",Enterprise Information Systems,ignore
+"Event Management degree, Bachelor of  Event Management, Event Management bachelor info",Event Management,ignore
+"Fashion Design degree, Bachelor of  Fashion Design, Fashion Design bachelor info",Fashion Design,ignore
+"Finance degree, Bachelor of  Finance, Finance bachelor info",Finance,ignore
+"Finance & Investment degree, Bachelor of  Finance & Investment, Finance & Investment bachelor info",Finance & Investment,ignore
+"Food Science degree, Bachelor of  Food Science, Food Science bachelor info",Food Science,ignore
+"Graphic Design degree, Bachelor of  Graphic Design, Graphic Design bachelor info",Graphic Design,ignore
+"Gastropreneurship degree, Bachelor of  Gastropreneurship, Gastropreneurship bachelor info",Gastropreneurship,ignore
+"Hospitality & Catering Management degree, Bachelor of  Hospitality & Catering Management, Hospitality & Catering Management bachelor info",Hospitality & Catering Management,ignore
+"Hospitality Management degree, Bachelor of  Hospitality Management, Hospitality Management bachelor info",Hospitality Management,ignore
+"Human Resource Management degree, Bachelor of  Human Resource Management, Human Resource Management bachelor info",Human Resource Management,ignore
+"Information Security degree, Bachelor of  Information Security, Information Security bachelor info",Information Security,ignore
+"Interactive Software Technology degree, Bachelor of  Interactive Software Technology, Interactive Software Technology bachelor info",Interactive Software Technology,ignore
+"Interior Architecture degree, Bachelor of  Interior Architecture, Interior Architecture bachelor info",Interior Architecture,ignore
+"International Business degree, Bachelor of  International Business, International Business bachelor info",International Business,ignore
+"International Business Management degree, Bachelor of  International Business Management, International Business Management bachelor info",International Business Management,ignore
+"Journalism degree, Bachelor of  Journalism, Journalism bachelor info",Journalism,ignore
+"Logistics & Supply Chain Management degree, Bachelor of  Logistics & Supply Chain Management, Logistics & Supply Chain Management bachelor info",Logistics & Supply Chain Management,ignore
+"Manufacturing & Industrial Technology degree, Bachelor of  Manufacturing & Industrial Technology, Manufacturing & Industrial Technology bachelor info",Manufacturing & Industrial Technology,ignore
+"Marketing degree, Bachelor of  Marketing, Marketing bachelor info",Marketing,ignore
+"Materials & Manufacturing Technology degree, Bachelor of  Materials & Manufacturing Technology, Materials & Manufacturing Technology bachelor info",Materials & Manufacturing Technology,ignore
+"Mechanical Engineering degree, Bachelor of  Mechanical Engineering, Mechanical Engineering bachelor info",Mechanical Engineering,ignore
+"Mechatronics Engineering degree, Bachelor of  Mechatronics Engineering, Mechatronics Engineering bachelor info",Mechatronics Engineering,ignore
+"Management Mathematics with Computing degree, Bachelor of  Management Mathematics with Computing, Management Mathematics with Computing bachelor info",Management Mathematics with Computing,ignore
+"Media Studies degree, Bachelor of  Media Studies, Media Studies bachelor info",Media Studies,ignore
+"Nutrition degree, Bachelor of  Nutrition, Nutrition bachelor info",Nutrition,ignore
+"Psychology degree, Bachelor of  Psychology, Psychology bachelor info",Psychology,ignore
+"Public Relations degree, Bachelor of  Public Relations, Public Relations bachelor info",Public Relations,ignore
+"Quantity Surveying degree, Bachelor of  Quantity Surveying, Quantity Surveying bachelor info",Quantity Surveying,ignore
+"Real Estate Management degree, Bachelor of  Real Estate Management, Real Estate Management bachelor info",Real Estate Management,ignore
+"Sports & Exercise Science degree, Bachelor of  Sports & Exercise Science, Sports & Exercise Science bachelor info",Sports & Exercise Science,ignore
+"Sports Coaching and Performance Analysis degree, Bachelor of  Sports Coaching and Performance Analysis, Sports Coaching and Performance Analysis bachelor info",Sports Coaching and Performance Analysis,ignore
+"Software Engineering degree, Bachelor of  Software Engineering, Software Engineering bachelor info",Software Engineering,ignore
+"Software Systems Development degree, Bachelor of  Software Systems Development, Software Systems Development bachelor info",Software Systems Development,ignore
+"Tourism Management degree, Bachelor of  Tourism Management, Tourism Management bachelor info",Tourism Management,ignore
+,,
+Accounting,We offer Accounting as both a Diploma and a Degree. Which one would you like to know about?,general_accounting
+Advertising,We offer Advertising as both a Diploma and a Degree. Which one would you like to know about?,general_advertising
+Aquaculture,We offer Aquaculture as both a Diploma and a Degree. Which one would you like to know about?,general_aquaculture
+Banking & Finance,We offer Banking & Finance as both a Diploma and a Degree. Which one would you like to know about?,general_banking & finance
+Broadcast Communication,We offer Broadcast Communication as both a Diploma and a Degree. Which one would you like to know about?,general_broadcast communication
+Building,We offer Building as both a Diploma and a Degree. Which one would you like to know about?,general_building
+Business Administration,We offer Business Administration as both a Diploma and a Degree. Which one would you like to know about?,general_business administration
+Business Economics,We offer Business Economics as both a Diploma and a Degree. Which one would you like to know about?,general_business economics
+Communication & Media Studies,We offer Communication & Media Studies as both a Diploma and a Degree. Which one would you like to know about?,general_communication & media studies
+Computer Science,We offer Computer Science as both a Diploma and a Degree. Which one would you like to know about?,general_computer science
+Counselling,We offer Counselling as both a Diploma and a Degree. Which one would you like to know about?,general_counselling
+Culinary Arts,We offer Culinary Arts as both a Diploma and a Degree. Which one would you like to know about?,general_culinary arts
+E-Marketing,We offer E-Marketing as both a Diploma and a Degree. Which one would you like to know about?,general_e-marketing
+Early Childhood Education,We offer Early Childhood Education as both a Diploma and a Degree. Which one would you like to know about?,general_early childhood education
+Early Childhood Special Education,We offer Early Childhood Special Education as both a Diploma and a Degree. Which one would you like to know about?,general_early childhood special education
+Electronic Engineering,We offer Electronic Engineering as both a Diploma and a Degree. Which one would you like to know about?,general_electronic engineering
+Entrepreneurship,We offer Entrepreneurship as both a Diploma and a Degree. Which one would you like to know about?,general_entrepreneurship
+Event Management,We offer Event Management as both a Diploma and a Degree. Which one would you like to know about?,general_event management
+Fashion Design,We offer Fashion Design as both a Diploma and a Degree. Which one would you like to know about?,general_fashion design
+Finance & Investment,We offer Finance & Investment as both a Diploma and a Degree. Which one would you like to know about?,general_finance & investment
+Food Science,We offer Food Science as both a Diploma and a Degree. Which one would you like to know about?,general_food science
+Graphic Design,We offer Graphic Design as both a Diploma and a Degree. Which one would you like to know about?,general_graphic design
+Hotel Management,We offer Hotel Management as both a Diploma and a Degree. Which one would you like to know about?,general_hotel management
+Human Resource Management,We offer Human Resource Management as both a Diploma and a Degree. Which one would you like to know about?,general_human resource management
+International Business,We offer International Business as both a Diploma and a Degree. Which one would you like to know about?,general_international business
+Information Technology,We offer Information Technology as both a Diploma and a Degree. Which one would you like to know about?,general_information technology
+Journalism,We offer Journalism as both a Diploma and a Degree. Which one would you like to know about?,general_journalism
+Logistics & Supply Chain Management,We offer Logistics & Supply Chain Management as both a Diploma and a Degree. Which one would you like to know about?,general_logistics & supply chain management
+Manufacturing Technology,We offer Manufacturing Technology as both a Diploma and a Degree. Which one would you like to know about?,general_manufacturing technology
+Marketing,We offer Marketing as both a Diploma and a Degree. Which one would you like to know about?,general_marketing
+Mechanical Engineering,We offer Mechanical Engineering as both a Diploma and a Degree. Which one would you like to know about?,general_mechanical engineering
+Mechatronic Engineering,We offer Mechatronic Engineering as both a Diploma and a Degree. Which one would you like to know about?,general_mechatronic engineering
+Media Studies,We offer Media Studies as both a Diploma and a Degree. Which one would you like to know about?,general_media studies
+Multimedia Design,We offer Multimedia Design as both a Diploma and a Degree. Which one would you like to know about?,general_multimedia design
+Public Relations,We offer Public Relations as both a Diploma and a Degree. Which one would you like to know about?,general_public relations
+Product Development Technology,We offer Product Development Technology as both a Diploma and a Degree. Which one would you like to know about?,general_product development technology
+Quantity Surveying,We offer Quantity Surveying as both a Diploma and a Degree. Which one would you like to know about?,general_quantity surveying
+Real Estate Management,We offer Real Estate Management as both a Diploma and a Degree. Which one would you like to know about?,general_real estate management
+Science,We offer Science as both a Diploma and a Degree. Which one would you like to know about?,general_science
+Software Engineering,We offer Software Engineering as both a Diploma and a Degree. Which one would you like to know about?,general_software engineering
+Sports & Exercise Science,We offer Sports & Exercise Science as both a Diploma and a Degree. Which one would you like to know about?,general_sports & exercise science
+Tourism Management,We offer Tourism Management as both a Diploma and a Degree. Which one would you like to know about?,general_tourism management
+,,
+Accounting & Finance,We offer Accounting & Finance as both a Diploma and a Degree. Which one would you like to know about?,general_accounting & finance
+Analytical Chemistry,We offer Analytical Chemistry as both a Diploma and a Degree. Which one would you like to know about?,general_analytical chemistry
+Applied Business Analytics,We offer Applied Business Analytics as both a Diploma and a Degree. Which one would you like to know about?,general_applied business analytics
+Applied Physics (Instrumentation),We offer Applied Physics (Instrumentation) as both a Diploma and a Degree. Which one would you like to know about?,general_applied physics (instrumentation)
+Architecture,We offer Architecture as both a Diploma and a Degree. Which one would you like to know about?,general_architecture
+Business Analytics,We offer Business Analytics as both a Diploma and a Degree. Which one would you like to know about?,general_business analytics
+Bioscience with Chemistry,We offer Bioscience with Chemistry as both a Diploma and a Degree. Which one would you like to know about?,general_bioscience with chemistry
+Broadcasting,We offer Broadcasting as both a Diploma and a Degree. Which one would you like to know about?,general_broadcasting
+Commerce,We offer Commerce as both a Diploma and a Degree. Which one would you like to know about?,general_commerce
+Communication Studies,We offer Communication Studies as both a Diploma and a Degree. Which one would you like to know about?,general_communication studies
+Construction Management and Economics,We offer Construction Management and Economics as both a Diploma and a Degree. Which one would you like to know about?,general_construction management and economics
+Corporate Administration,We offer Corporate Administration as both a Diploma and a Degree. Which one would you like to know about?,general_corporate administration
+Creative Multimedia,We offer Creative Multimedia as both a Diploma and a Degree. Which one would you like to know about?,general_creative multimedia
+Data Science,We offer Data Science as both a Diploma and a Degree. Which one would you like to know about?,general_data science
+Digital Business,We offer Digital Business as both a Diploma and a Degree. Which one would you like to know about?,general_digital business
+Economics,We offer Economics as both a Diploma and a Degree. Which one would you like to know about?,general_economics
+Electrical & Electronics Engineering,We offer Electrical & Electronics Engineering as both a Diploma and a Degree. Which one would you like to know about?,general_electrical & electronics engineering
+Electronics Engineering Technology,We offer Electronics Engineering Technology as both a Diploma and a Degree. Which one would you like to know about?,general_electronics engineering technology
+English Studies,We offer English Studies as both a Diploma and a Degree. Which one would you like to know about?,general_english studies
+English with Drama,We offer English with Drama as both a Diploma and a Degree. Which one would you like to know about?,general_english with drama
+English with Education,We offer English with Education as both a Diploma and a Degree. Which one would you like to know about?,general_english with education
+Enterprise Information Systems,We offer Enterprise Information Systems as both a Diploma and a Degree. Which one would you like to know about?,general_enterprise information systems
+Finance,We offer Finance as both a Diploma and a Degree. Which one would you like to know about?,general_finance
+Gastropreneurship,We offer Gastropreneurship as both a Diploma and a Degree. Which one would you like to know about?,general_gastropreneurship
+Hospitality & Catering Management,We offer Hospitality & Catering Management as both a Diploma and a Degree. Which one would you like to know about?,general_hospitality & catering management
+Hospitality Management,We offer Hospitality Management as both a Diploma and a Degree. Which one would you like to know about?,general_hospitality management
+Information Security,We offer Information Security as both a Diploma and a Degree. Which one would you like to know about?,general_information security
+Interactive Software Technology,We offer Interactive Software Technology as both a Diploma and a Degree. Which one would you like to know about?,general_interactive software technology
+Interior Architecture,We offer Interior Architecture as both a Diploma and a Degree. Which one would you like to know about?,general_interior architecture
+International Business Management,We offer International Business Management as both a Diploma and a Degree. Which one would you like to know about?,general_international business management
+Manufacturing & Industrial Technology,We offer Manufacturing & Industrial Technology as both a Diploma and a Degree. Which one would you like to know about?,general_manufacturing & industrial technology
+Materials & Manufacturing Technology,We offer Materials & Manufacturing Technology as both a Diploma and a Degree. Which one would you like to know about?,general_materials & manufacturing technology
+Mechatronics Engineering,We offer Mechatronics Engineering as both a Diploma and a Degree. Which one would you like to know about?,general_mechatronics engineering
+Management Mathematics with Computing,We offer Management Mathematics with Computing as both a Diploma and a Degree. Which one would you like to know about?,general_management mathematics with computing
+Nutrition,We offer Nutrition as both a Diploma and a Degree. Which one would you like to know about?,general_nutrition
+Psychology,We offer Psychology as both a Diploma and a Degree. Which one would you like to know about?,general_psychology
+Sports Coaching and Performance Analysis,We offer Sports Coaching and Performance Analysis as both a Diploma and a Degree. Which one would you like to know about?,general_sports coaching and performance analysis
+Software Systems Development,We offer Software Systems Development as both a Diploma and a Degree. Which one would you like to know about?,general_software systems development
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+ignore_this_fallback_trigger,"Sorry, I couldn't understand your request. Could you try to specify more?",fallback
+hi,Hello! I am the TARUMT Chatbot. How can I assist you?,greeting
+ hello,Hello! I am the TARUMT Chatbot. How can I assist you?,greeting
+ hey,Hello! I am the TARUMT Chatbot. How can I assist you?,greeting
+ good morning,Hello! I am the TARUMT Chatbot. How can I assist you?,greeting
+ yo,Hello! I am the TARUMT Chatbot. How can I assist you?,greeting
+sup,Hello! I am the TARUMT Chatbot. How can I assist you?,greeting
+ gm,Hello! I am the TARUMT Chatbot. How can I assist you?,greeting
+ who are you?,Hello! I am the TARUMT Chatbot. How can I assist you?,greeting
+,,
+bye,Bye! Good luck with your application to TARUMT!,goodbye
+goodbye,Bye! Good luck with your application to TARUMT!,goodbye
+see you,Bye! Good luck with your application to TARUMT!,goodbye
+,,
+,,
+thanks,You're welcome! Glad I am able  to help!,gratitute
+thank you,You're welcome! Glad I am able  to help!,gratitute
+thx,You're welcome! Glad I am able  to help!,gratitute
+tq,You're welcome! Glad I am able  to help!,gratitute
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+list all programs,Here are the programs we offer:,general_list
+show me courses,Here are the programs we offer:,general_list
+what courses do you have,Here are the programs we offer:,general_list
