@@ -7,6 +7,10 @@ from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import load_model
 from fuzzywuzzy import process 
 
+nltk.download('punkt')
+nltk.download('wordnet')
+nltk.download('omw-1.4')
+
 # Chatbot Name 
 CHATBOT_NAME = "TARUMT"
 
