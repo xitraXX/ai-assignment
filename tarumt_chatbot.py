@@ -33,6 +33,7 @@ with st.sidebar:
 # --- CACHE THE AI SO IT DOESN'T RELOAD EVERY TIME YOU TYPE ---
 @st.cache_resource
 def load_ai_brain():
+    nltk.download('punkt_tab', quiet=True)
     nltk.download('punkt', quiet=True)
     nltk.download('wordnet', quiet=True)
     nltk.download('omw-1.4', quiet=True)

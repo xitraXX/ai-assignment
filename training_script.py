@@ -9,6 +9,7 @@ import pickle
 
 # Ensure data is downloaded
 nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('wordnet')
 lemmatizer = WordNetLemmatizer()
 
