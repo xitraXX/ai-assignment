@@ -55,7 +55,7 @@ def load_ai_brain(bot_selection):
         classes = pickle.load(open('course/classes_course.pkl', 'rb'))
         df = pd.read_csv('course/course.csv')
         
-    elif bot_selection == "FaQ":
+    elif bot_selection == "Faq":
         model = load_model('faq/tarumt_chatbot_faq.h5')
         words = pickle.load(open('faq/words_faq.pkl', 'rb'))
         classes = pickle.load(open('faq/classes_faq.pkl', 'rb'))
@@ -66,11 +66,6 @@ def load_ai_brain(bot_selection):
         words = pickle.load(open('financial_aid/words_financial_aid.pkl', 'rb'))
         classes = pickle.load(open('financial_aid/classes_financial_aid.pkl', 'rb'))
         df = pd.read_csv('financial_aid/financial_aid.csv')
-
-    model = load_model('faq/tarumt_chatbot_faq.h5')
-    words = pickle.load(open('faq/words_faq.pkl', 'rb'))
-    classes = pickle.load(open('faq/classes_faq.pkl', 'rb'))
-    df = pd.read_csv('faq/faq.csv')
 
     df['User_Message'] = df['User_Message'].astype(str).str.strip()    
     return lemmatizer, model, words, classes, df
