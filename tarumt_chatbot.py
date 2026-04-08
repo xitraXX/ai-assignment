@@ -1,4 +1,3 @@
-import random
 import pandas as pd
 import numpy as np
 import nltk
@@ -20,7 +19,7 @@ with st.sidebar:
     # Selection for the 3 different models
     bot_selection = st.radio(
         "Choose a Model:",
-        ("Course", "FaQ", "Financial Aid") # Change names as needed
+        ("Course", "Faq", "Financial Aid") # Change names as needed
     )
     
     st.divider()
@@ -41,6 +40,8 @@ with st.sidebar:
 # --- CACHE THE AI SO IT DOESN'T RELOAD EVERY TIME YOU TYPE ---
 @st.cache_resource
 def load_ai_brain(bot_selection):
+    lemmatizer = WordNetLemmatizer()
+
     nltk.download('punkt_tab', quiet=True)
     nltk.download('punkt', quiet=True)
     nltk.download('wordnet', quiet=True)
