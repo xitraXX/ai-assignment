@@ -7,10 +7,8 @@ from tensorflow.keras.models import load_model
 from fuzzywuzzy import process 
 import streamlit as st
 
-# --- STREAMLIT PAGE SETUP ---
+# --- STREAMLIT HEADER SETUP ---
 st.set_page_config(page_title="TARUMT Chatbot", page_icon="🎓")
-st.title("TARUMT Chatbot 🎓")
-st.caption("Ask me anything regarding TARUMT!")
 
 # --- SIDEBAR: CHATBOT SELECTION ---
 with st.sidebar:
@@ -30,12 +28,15 @@ with st.sidebar:
         ]
         st.rerun()
 
-    st.info(f"Currently active: **{bot_selection}**")
-
     st.divider()
     st.write("**Model Info:**")
     st.info("Using TensorFlow 2.x + NLTK")
 # --------------------------------
+
+# --- STREAMLIT PAGE SETUP ---
+st.markdown(f"✨ **Currently active: {bot_selection}**")
+st.title("TARUMT Chatbot 🎓")
+st.caption("Ask me anything regarding TARUMT!")
 
 # --- CACHE THE AI SO IT DOESN'T RELOAD EVERY TIME YOU TYPE ---
 @st.cache_resource
@@ -110,16 +111,9 @@ if st.session_state.current_bot != bot_selection:
 
 # Default greeting if empty
 if not st.session_state.messages:
-    st.session_state.messages.append({"role": "assistant", "content": f"Hello! I am the {bot_selection}. How can I help you today?"})
+    st.session_state.messages.append({"role": "assistant", "content": f"Hello! How can I help you today?"})
 
 # Display all previous messages on the screen
-for msg in st.session_state.messages:
-    with st.chat_message(msg["role"]):
-        st.markdown(msg["content"])
-
-# --- UI DISPLAY ---
-st.title(f"{bot_selection}")
-
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
