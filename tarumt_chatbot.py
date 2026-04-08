@@ -7,6 +7,17 @@ from tensorflow.keras.models import load_model
 from fuzzywuzzy import process, fuzz
 import streamlit as st
 
+import warnings
+
+# This forces the app to CRASH if it tries to use the 'backup' (difflib)
+warnings.filterwarnings('error', message='Using slow pure-python SequenceMatcher')
+
+try:
+    from fuzzywuzzy import process, fuzz
+except ImportWarning:
+    # This will catch the error and stop the app
+    raise RuntimeError("FATAL: python-Levenshtein is NOT active. Streamlit is trying to use the bad backup engine!")
+
 # --- STREAMLIT HEADER SETUP ---
 st.set_page_config(page_title="TARUMT Chatbot", page_icon="🎓")
 
