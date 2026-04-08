@@ -4,8 +4,10 @@ import nltk
 import pickle
 from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import load_model
-from fuzzywuzzy import process
+from fuzzywuzzy import process, fuzz
 import streamlit as st
+
+st.write(f"DEBUG: Using Levenshtein engine: {fuzz.ratio('test', 'test') == 100}")
 
 # --- STREAMLIT HEADER SETUP ---
 st.set_page_config(page_title="TARUMT Chatbot", page_icon="🎓")
