@@ -39,7 +39,7 @@ st.title("TARUMT Chatbot 🎓")
 st.caption("Ask me anything regarding TARUMT!")
 
 # --- CACHE THE AI SO IT DOESN'T RELOAD EVERY TIME YOU TYPE ---
-@st.cache_resource
+# @st.cache_resource
 def load_ai_brain(bot_selection):
     lemmatizer = WordNetLemmatizer()
 
@@ -99,7 +99,6 @@ def auto_correct(user_input):
 
 # --- STREAMLIT SESSION STATE (CHAT HISTORY) ---
 # This checks if this is a new conversation. If yes, it creates an empty list to store messages.
-# --- SESSION STATE (Switching Logic) ---
 # If the user changes the bot in the sidebar, clear the messages automatically
 if "current_bot" not in st.session_state:
     st.session_state.current_bot = bot_selection
