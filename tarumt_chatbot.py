@@ -34,7 +34,7 @@ with st.sidebar:
 # --------------------------------
 
 # --- STREAMLIT PAGE SETUP ---
-st.markdown(f"✨ **Currently active: {bot_selection}**")
+st.info(f"🚀**Model: {bot_selection}**")
 st.title("TARUMT Chatbot 🎓")
 st.caption("Ask me anything regarding TARUMT!")
 
