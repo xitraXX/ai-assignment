@@ -90,7 +90,7 @@ def auto_correct(user_input):
     words_in_message = user_input.split()
     corrected_message = []
     for word in words_in_message:
-        match, score = process.extractOne(word, words, scorer=fuzz.ratio)
+        match, score = process.extractOne(word, words)
         if score > 80: 
             corrected_message.append(match)
         else:
