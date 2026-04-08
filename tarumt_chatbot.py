@@ -4,7 +4,7 @@ import nltk
 import pickle
 from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import load_model
-from fuzzywuzzy import process 
+from fuzzywuzzy import process
 import streamlit as st
 
 # --- STREAMLIT HEADER SETUP ---
@@ -39,7 +39,7 @@ st.title("TARUMT Chatbot 🎓")
 st.caption("Ask me anything regarding TARUMT!")
 
 # --- CACHE THE AI SO IT DOESN'T RELOAD EVERY TIME YOU TYPE ---
-# @st.cache_resource
+@st.cache_resource
 def load_ai_brain(bot_selection):
     lemmatizer = WordNetLemmatizer()
 
@@ -90,7 +90,7 @@ def auto_correct(user_input):
     words_in_message = user_input.split()
     corrected_message = []
     for word in words_in_message:
-        match, score = process.extractOne(word, words)
+        match, score = process.extractOne(word, words, scorer=process.ratio)
         if score > 80: 
             corrected_message.append(match)
         else:
