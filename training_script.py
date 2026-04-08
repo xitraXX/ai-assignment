@@ -14,7 +14,7 @@ nltk.download('wordnet')
 lemmatizer = WordNetLemmatizer()
 
 # 1. Load CSV
-df = pd.read_csv('tarumt_dataset.csv')
+df = pd.read_csv('course.csv')
 
 # --- ignore any row where the Intent is missing ---
 df = df.dropna(subset=['Intent']) 
@@ -44,8 +44,8 @@ words = [lemmatizer.lemmatize(w.lower()) for w in words if w not in ignore_words
 words = sorted(list(set(words)))
 classes = sorted(list(set(classes)))
 
-pickle.dump(words, open('words.pkl', 'wb'))
-pickle.dump(classes, open('classes.pkl', 'wb'))
+pickle.dump(words, open('words_course.pkl', 'wb'))
+pickle.dump(classes, open('classes_course.pkl', 'wb'))
 
 # 3. Create Training Data
 train_x = []

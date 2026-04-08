@@ -15,11 +15,11 @@ nltk.download('omw-1.4', quiet=True)
 
 lemmatizer = WordNetLemmatizer()
 
-# Load the AI brain
-model = load_model('tarumt_model_programme.h5')
-words = pickle.load(open('words.pkl', 'rb'))
-classes = pickle.load(open('classes.pkl', 'rb'))
-df = pd.read_csv('tarumt_dataset.csv')
+# Load the AI brain # Fill in 4 of whose model to open
+model = load_model('----.h5')
+words = pickle.load(open('----', 'rb'))
+classes = pickle.load(open('----', 'rb'))
+df = pd.read_csv('----.csv')
 df['User_Message'] = df['User_Message'].astype(str).str.strip()
 
 # --- HELPER FUNCTIONS ---

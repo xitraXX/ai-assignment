@@ -1,0 +1,101 @@
+﻿User_Message,Response,Intent
+When and how do I apply?,Apply online via TAR UMT portal.,apply_online_portal
+What documents are required?,MyKad transcripts certificates.,submit_documents_mykad_transcript
+Can I apply before final results?,Yes using trial results.,use_trial_results_application
+Is there an application fee?,May apply depending on programme.,conditional_payment_programme
+How to check application status?,Login to portal to track.,track_application_portal
+Can I apply multiple programmes?,Yes subject to availability.,application_availability
+Processing time?,Depends on completeness.,application_processing_time
+Is interview required?,Only for selected programmes.,programme_specific_requirements
+Is portfolio required?,Yes for design programmes.,design_programme_requirement
+What after receiving offer?,Accept and pay fees.,accept_offer_and_pay
+Can I change programme?,Yes with approval.,application_with_approval
+Can I defer intake?,Yes subject to approval.,admission_subject_to_approval
+Are international students allowed?,Yes.,international_application
+What if I don’t meet requirements?,Alternative pathway may be offered.,alternative_entry_pathway
+Intake months?,Jan May Jun Sep Nov.,intake_schedule
+How will I receive offer?,Via portal/email.,admission_notification_method
+Do I need certified documents?,Yes for verification.,document_verification_required
+Can I edit application after submit?,Limited changes allowed.,limited_application_changes
+What is conditional offer?,Offer pending final results.,offer_pending_final_results
+How to accept offer?,Pay fees and confirm online.,confirm_offer_payment
+What payment methods available?,Online banking FPX etc.,online_payment_methods
+Is hostel available?,Yes apply separately.,separate_hostel_application
+Can I apply for scholarship?,Yes if eligible.,financial_aid_eligibility
+When to apply for hostel?,After offer acceptance.,hostel_after_acceptance
+What is student ID?,Unique ID after registration.,student_id_assignment
+How to access student email?,Via portal after enrolment.,portal_access_after_enrolment
+What is orientation?,Intro session for new students.,orientation_session_info
+Can I withdraw application?,Yes before enrolment.,apply_before_enrolment
+What happens if I miss deadline?,Apply for next intake.,reapply_next_intake
+Is English test required?,For some programmes.,programme_specific_requirements_general
+Can I apply using forecast results?,Yes forecast results are accepted temporarily.,forecast_results_acceptance
+Do I need to submit original documents?,Yes during registration for verification.,document_submission_registration
+What happens if I submit wrong documents?,Application may be rejected or delayed.,incomplete_documents_consequence
+Is there a deadline for each intake?,Yes each intake has a specific closing date.,application_closing_date
+Can I reapply if rejected?,Yes you may reapply for next intake.,reapplication_allowed
+Is there age limit?,No strict age limit for most programmes.,no_age_limit_entry
+Do I need passport for application?,Only for international students.,international_document_requirement
+Can I upload documents later?,Some documents can be submitted later.,late_document_submission
+What file format is accepted?,PDF or image formats accepted.,document_format_requirement
+Is there minimum CGPA requirement?,Yes depends on programme.,programme_entry_requirement
+Can diploma holders apply for degree?,Yes via credit transfer if eligible.,credit_transfer_option
+Can I skip foundation programme?,Yes if you meet direct entry requirements.,direct_entry_eligibility
+What is foundation programme?,Pre-university preparation course.,pre_university_course
+Is attendance monitored?,Yes attendance is tracked.,attendance_tracking
+Can I study online?,Some programmes may offer online mode.,online_study_mode_option
+Are exams online or physical?,Depends on programme and situation.,programme_delivery_mode
+How many semesters per year?,Usually 2–3 semesters.,programme_duration
+What is credit hour?,Unit measuring course workload.,credit_hour_definition
+Can I repeat failed subjects?,Yes you can retake subjects.,subject_retake_policy
+Is there academic advisor?,Yes students are assigned advisors.,academic_advisor_assignment
+What support services available?,Counselling career academic support.,student_support_services
+Is there career guidance?,Yes career services available.,career_services_availability
+Can I join clubs?,Yes many student clubs available.,student_clubs_info
+Is there sports facility?,Yes sports facilities provided.,sports_facilities
+Is campus WiFi available?,Yes free WiFi for students.,campus_wifi
+Are there libraries?,Yes with study resources.,library_resources
+What transport options available?,Public transport and parking available.,transport_and_parking
+Is parking available?,Yes for students and staff.,campus_health_services
+Are food facilities available?,Yes cafeterias and food stalls.,cafeteria_food_options
+Is campus safe?,Yes security services provided.,campus_security
+Can I work while studying?,Yes part-time work allowed.,part_time_work
+Is internship compulsory?,For many programmes yes.,internship_availability
+How long is internship?,Depends on programme requirement.,industrial_training_requirement
+Do you provide job placement?,Career services assist job search.,job_search_support
+Can I study abroad?,Exchange programmes may be available.,student_exchange_programme
+Is there dual degree?,Depends on programme availability.,programme_availability
+Are classes in English?,Most programmes are taught in English.,medium_of_instruction
+Do I need MUET/IELTS?,Required for some programmes.,english_requirement
+What is minimum English requirement?,Depends on programme.,additional_entry_requirements
+Can I retake English test?,Yes you can improve and resubmit.,resubmission_option
+How to contact lecturer?,Through email or portal.,student_communication_channel
+Can I access lecture materials online?,Yes via student portal.,portal_usage_student
+Is attendance graded?,May contribute to marks.,coursework_assessment
+What is CGPA passing mark?,Usually 2.0 and above.,minimum_gpa_requirement
+Can I appeal results?,Yes within given period.,appeal_process
+Is graduation ceremony compulsory?,Optional but encouraged.,club_participation
+When do I graduate?,After completing all requirements.,graduation_requirements
+Can I request transcript?,Yes via administration office.,document_request_office
+Is alumni network available?,Yes for graduates.,convocation_ceremony
+Where to get latest updates?,Official website and portal.,official_information_source
+Can I change elective subjects?,Yes with advisor approval.,course_change_with_approval
+What is semester break?,Period between semesters.,semester_break_period
+Are there orientation programs?,Yes mandatory orientation for new students.,mandatory_orientation
+Can I switch lecturers?,Depends on faculty policy.,faculty_policy_variation
+Are there guest lectures?,Yes for selected courses.,online_course_availability
+Do I need lab coats?,Yes for science and engineering labs.,lab_requirement_science_engineering
+What are class timings?,Depends on timetable.,class_schedule_dependency
+Are group projects graded?,Yes as part of assessment.,assignment_component
+Can I record lectures?,Depends on lecturer permission.,lecture_permission_policy
+Is attendance mandatory for labs?,Yes labs require attendance.,lab_attendance_requirement
+Can I apply for leave of absence?,Yes via administration approval.,student_status_change
+Are medical certificates required?,Yes for sick leave.,medical_leave_document
+Can I repeat a course for grade improvement?,Yes depending on programme policy.,attendance_policy_variation
+Are textbooks provided?,Students purchase textbooks themselves.,textbook_purchase
+Do you provide online lectures?,Yes via portal for some courses.,online_registration_courses
+Can I attend workshops?,Yes workshops are organized by faculties.,faculty_workshops
+Are there study groups?,Yes student-formed groups exist.,student_group_activity
+Can I request extra tutoring?,Yes subject to availability.,support_service_availability
+How to access exam results?,Through student portal.,result_access_portal
+Are exam schedules provided in advance?,Yes via portal and notice boards.,academic_notice_board
