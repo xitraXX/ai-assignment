@@ -7,8 +7,6 @@ from tensorflow.keras.models import load_model
 from fuzzywuzzy import process, fuzz
 import streamlit as st
 
-st.write(f"DEBUG: Using Levenshtein engine: {fuzz.ratio('test', 'test') == 100}")
-
 # --- STREAMLIT HEADER SETUP ---
 st.set_page_config(page_title="TARUMT Chatbot", page_icon="🎓")
 
@@ -92,7 +90,7 @@ def auto_correct(user_input):
     words_in_message = user_input.split()
     corrected_message = []
     for word in words_in_message:
-        match, score = process.extractOne(word, words)
+        match, score = process.extractOne(word, words, scorer=fuzz.ratio, processor=None)
         if score > 80: 
             corrected_message.append(match)
         else:
